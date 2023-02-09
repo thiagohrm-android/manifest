@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
       <remote  name="androidpi"
-               fetch="ssh://git@github.com/thiagohrm/"/>
+               fetch="https://github.com/thiagohrm-android/"/>
                
-<project path="scripts" name="arpi11-scripts" remote="androidpi" revision="refs/tags/v0.0.1"/>
+<project path="scripts" name="scripts" remote="androidpi" revision="refs/tags/v0.0.1"/>
     
 </manifest>
