@@ -4,7 +4,7 @@
                fetch="https://github.com/thiagohrm-android/"/>
                
       <project path="platform_testing/build/tasks/tests" name="platform_testing-build-tasks-tests" remote="androidpi" revision="main"/>
-      <project path="system/bt/hci/src" name="system-bt-hci-src" remote="androidpi" revision="refs/tags/v0.0.1"/>
+      <project path="system/bt/hci/src" name="system-bt-hci-src" remote="androidpi" revision="main"/>
       <project path="hardware/interfaces/bluetooth/1.0/default" name="hardware-interfaces-bluetooth-1.0-default" remote="androidpi" revision="main"/>
       <project path="hardware/interfaces/audio/common/all-versions/default/service" name="hardware-interfaces-audio-common-all-versions-default-service" remote="androidpi" revision="main"/>      
       <project path="hardware/interfaces/camera/provider/2.5/default" name="hardware-interfaces-camera-provider-2.5-default" remote="androidpi" revision="main"/>      
