@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- aosp tree manifest -->
+    <include name="aosp/manifest.xml" />
+
+    <!-- vendor manifest -->
+    <include name="vendor/manifest.xml" />
+    
+    <!-- board manifest -->
+    <include name="board/manifest.xml" />
+    
+    <!-- scripts manifest -->
+    <include name="scripts/manifest.xml" />
+    
+    <!-- patchs manifest -->
+    <include name="patchs/manifest.xml" />
+    
+</manifest>
