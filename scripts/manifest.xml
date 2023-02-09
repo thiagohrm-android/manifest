@@ -3,6 +3,6 @@
       <remote  name="androidpi"
                fetch="https://github.com/thiagohrm-android/"/>
                
-<project path="scripts" name="build_scripts" remote="androidpi" revision="main"/>
+<project path="scripts" name="build_scripts" remote="androidpi" revision="rasp3/android-10.0.0_r32"/>
     
 </manifest>
