@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
       <remote  name="androidpi"
-               fetch="ssh://git@github.com/thiagohrm/"/>
+               fetch="https://github.com/thiagohrm-android/"/>
                
 <project path="vendor/androidpi/packages/apps/hello-world" name="vendor-androidpi-apps-helloworld" remote="androidpi" revision="refs/tags/v0.0.1"/>
     
