@@ -12,7 +12,5 @@
     <!-- scripts manifest -->
     <include name="scripts/manifest.xml" />
     
-    <!-- patchs manifest -->
-    <include name="patchs/manifest.xml" />
     
 </manifest>
